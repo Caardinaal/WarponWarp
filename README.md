@@ -1,2 +1,2 @@
 # WarponWarp
-warp on multi location
+warp on multi locations
